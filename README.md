@@ -1,5 +1,10 @@
 APP to check the courrent weather in any place in the world
 
+You can try this app here: https://clakrsweather.netlify.app/
+
+
+Some examples:
+
 
 ![image](https://github.com/Clarks1223/Clima/assets/117754080/519704ff-8787-43ca-b694-b78c7dc3d434)
 
